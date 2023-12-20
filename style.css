@@ -20,7 +20,7 @@
   #login-form {
     z-index: 3;
     position: relative;
-    left: 45%;
+    left: auto;
     top: auto;
     align-self: flex-start;
     display: grid;
